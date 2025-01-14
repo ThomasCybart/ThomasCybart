@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL, Pandas, React, Matplotlib**
 
-- 👯 I’m looking to collaborate on **data analyst projects**
+- 👯 I’m looking to collaborate on **data analytics, web developing projects**
 
 - 💬 Ask me about **Python, Pandas, Matplot, SQL, React, Vite, Tailwind CSS**
 
