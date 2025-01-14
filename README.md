@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **data analyst projects**
 
-- 💬 Ask me about **Python, Pandas, CSS, HTML**
+- 💬 Ask me about **Python, Pandas, Matplot, SQL, React, Vite, Tailwind CSS**
 
 - 📫 How to reach me **b.thomasjcybart@hotmail.com**
 
