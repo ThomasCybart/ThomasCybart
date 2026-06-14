@@ -2,56 +2,137 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=80&section=header&text=Thomas%20Cybart&fontSize=35&fontColor=ffffff"/>
+
+<br>
+
 💻 **Data Analyst & Web Developer**  
 📍 Rosario, Argentina 🇦🇷  
 
-Soy estudiante de **Data Analytics** y desarrollo soluciones digitales combinando análisis de datos, programación y diseño web.
+<br>
 
-Transformo datos en información útil y creo experiencias web modernas, rápidas y funcionales 🚀
+<p>
+Creo soluciones digitales combinando 
+<b>datos, programación y diseño</b>.
+
+Transformo información en decisiones y código en experiencias modernas 🚀
+</p>
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-Full%20Stack-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+### 🧠 Áreas principales
+
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+📊  
+<h3>Data Analytics</h3>
+
+Python  
+Pandas  
+NumPy  
+SQL  
+Visualización
+
+</td>
+
+
+<td align="center" width="33%">
+
+🎨  
+<h3>Web Development</h3>
+
+React  
+Next.js  
+TypeScript  
+Tailwind CSS
+
+</td>
+
+
+<td align="center" width="33%">
+
+🗄️  
+<h3>Databases</h3>
+
+PostgreSQL  
+MySQL  
+SQLite  
+Data Modeling
+
+</td>
+
+</tr>
+</table>
+
 
 <br>
 
-<img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+### 🛠️ Tech Stack
+
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,tailwind,postgres,mysql,git,github,vscode,figma&perline=7"/>
+
 
 <br><br>
 
+
 ### 🎯 Actualmente enfocado en:
 
-📊 **Data Analytics**  
-- Limpieza y análisis de datos  
-- Visualización de información  
-- Python, Pandas y SQL  
+📈 Analítica de datos y automatización  
+⚛️ Desarrollo Full Stack moderno  
+🧩 Construcción de proyectos reales  
+🚀 Freelance y soluciones digitales
 
-🎨 **Web Development**  
-- Interfaces modernas con React / Next.js  
-- Diseño responsive  
-- Experiencias de usuario optimizadas  
 
-🗄️ **Bases de Datos**  
-- Modelado de datos  
-- Consultas SQL  
-- PostgreSQL / MySQL  
-
-🤝 **Disponible para:**
-
-🚀 Freelance  
-💼 Proyectos colaborativos  
-📈 Soluciones digitales para negocios  
+<br>
 
 
 ### 🌎 Idiomas
 
 🇦🇷 Español — Nativo  
-🇬🇧 Inglés — B1  
+🇬🇧 Inglés — B1
 
 
 </div>
+
+
+---
+
+
+# 📌 Servicios
+
+
+```mermaid
+graph LR
+
+A[🚀 Soluciones Digitales]
+
+A --> B[📊 Data Analytics]
+A --> C[🎨 Web Development]
+A --> D[💾 Databases]
+A --> E[🤝 Consultoría]
+
+
+B --> B1[🐍 Python]
+B --> B2[🐼 Pandas]
+B --> B3[📈 Visualización]
+
+
+C --> C1[⚛️ React]
+C --> C2[▲ Next.js]
+C --> C3[🎨 Tailwind]
+
+
+D --> D1[🐘 PostgreSQL]
+D --> D2[🐬 MySQL]
+D --> D3[🗃️ SQL]
+
+
+E --> E1[💡 Automatización]
+E --> E2[🌐 Soluciones Web]
