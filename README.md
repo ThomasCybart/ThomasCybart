@@ -1,20 +1,48 @@
-<h1 align="center">Hi 👋, I'm @ThomasCybart</h1>
-<h3 align="center">Data analyst student!</h3>
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Thomas%20Cybart&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+  
+  <h3>📊 Data Analyst | 🎨 Web Developer | 🚀 Freelancer</h3>
+  
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=435&lines=Data+Analyst+Student;Web+Developer;Python+%7C+SQL+%7C+React;Freelance+%7C+Consultor%C3%ADa" alt="Typing SVG" />
+    </a>
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomascybart&label=Profile%20views&color=0e75b6&style=flat" alt="thomascybart" /> </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=thomascybart&label=Profile%20views&color=8B5CF6&style=flat-square" alt="profile views" />
+    <a href="https://github.com/thomascybart?tab=followers">
+      <img src="https://img.shields.io/github/followers/thomascybart?label=Followers&style=social" alt="followers" />
+    </a>
+  </p>
 
-- 🌱 I’m currently learning **SQL, Pandas, React, Matplotlib**
+  <br/>
 
-- 👯 I’m looking to collaborate on **data analytics, web developing projects**
+  <pre>
+    💻 Data Analyst & Web Developer
+    📍 Rosario, Argentina
+    🎯 Enfocado en transformar datos en decisiones
+    ⚡ Creando experiencias web modernas y funcionales
+    🌎 Español nativo | English B1
+  </pre>
 
-- 💬 Ask me about **Python, Pandas, Matplot, SQL, React, Vite, Tailwind CSS**
+</div>
 
-- 📫 How to reach me **b.thomasjcybart@hotmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thomas-cybart-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas cybart" height="30" width="40" /></a>
-</p>
+## 🚀 Sobre Mí
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+```javascript
+const thomas = {
+    role: "Data Analyst & Web Developer",
+    location: "Rosario, Argentina 🇦🇷",
+    education: "Data Analyst Student",
+    availableFor: ["Freelance", "Consultoría", "Colaboraciones"],
+    languages: ["Python", "SQL", "JavaScript", "TypeScript", "HTML5", "CSS3"],
+    tools: ["React", "Next.js", "Vite", "Tailwind CSS", "Framer Motion"],
+    databases: ["MySQL", "PostgreSQL", "SQLite"],
+    dataTools: ["Pandas", "NumPy", "Matplotlib", "Jupyter"],
+    currentFocus: "Data Analytics & Web Development",
+    funFact: "Transformo datos aburridos en insights increíbles ✨"
+};
