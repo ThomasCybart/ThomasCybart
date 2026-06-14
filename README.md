@@ -1,139 +1,142 @@
-## 🚀 Sobre Mí
+## 🚀 Sobre mí
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=80&section=header&text=Thomas%20Cybart&fontSize=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=90&section=header&text=Thomas%20Cybart&fontSize=40&fontColor=ffffff"/>
 
 <br>
 
-💻 **Data Analyst & Web Developer**  
-📍 Rosario, Argentina 🇦🇷  
-
-<br>
+<h3>
+⚛️ Frontend Developer | 🚀 Full Stack Learner | 📊 Data Enthusiast
+</h3>
 
 <p>
-Creo soluciones digitales combinando 
-<b>datos, programación y diseño</b>.
-
-Transformo información en decisiones y código en experiencias modernas 🚀
+Construyo experiencias web modernas con <b>React, Next.js y TypeScript</b>.
+<br>
+Me enfoco en crear interfaces rápidas, escalables y con excelente experiencia de usuario.
 </p>
 
 <br>
 
-### 🧠 Áreas Principales
 
-<table>
-<tr>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,vite,git,github,figma&perline=10"/>
 
-<td align="center" width="33%">
-  <h3>📊</h3>
-  <h3>Data Analytics</h3>
-  <sub>
-  Python<br>
-  Pandas<br>
-  NumPy<br>
-  SQL<br>
-  Visualización
-  </sub>
-</td>
-
-<td align="center" width="33%">
-  <h3>🎨</h3>
-  <h3>Web Development</h3>
-  <sub>
-  React<br>
-  Next.js<br>
-  TypeScript<br>
-  Tailwind CSS
-  </sub>
-</td>
-
-<td align="center" width="33%">
-  <h3>🗄️</h3>
-  <h3>Databases</h3>
-  <sub>
-  PostgreSQL<br>
-  MySQL<br>
-  SQLite<br>
-  Data Modeling
-  </sub>
-</td>
-
-</tr>
-</table>
-
-<br>
-
-### 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,tailwind,postgres,mysql,git,github,vscode&perline=7"/>
 
 <br><br>
 
-### 🎯 Enfoque Actual
 
 <table>
+
 <tr>
-<td align="center">📈</td>
-<td>Analítica de datos y automatización</td>
+
+<td width="50%" align="center">
+
+
+## 🎨 Frontend
+
+⚛️ React  
+▲ Next.js  
+🔷 TypeScript  
+🎨 Tailwind CSS  
+✨ Framer Motion  
+⚡ Vite  
+
+
+</td>
+
+
+<td width="50%" align="center">
+
+
+## ⚙️ Backend & Data
+
+🟢 Node.js  
+🐍 Python  
+🗄️ SQL  
+🐘 PostgreSQL  
+🐬 MySQL  
+📊 Pandas  
+
+
+</td>
+
 </tr>
-<tr>
-<td align="center">⚛️</td>
-<td>Desarrollo Full Stack moderno</td>
-</tr>
-<tr>
-<td align="center">🧩</td>
-<td>Construcción de proyectos reales</td>
-</tr>
-<tr>
-<td align="center">🚀</td>
-<td>Freelance y soluciones digitales</td>
-</tr>
+
 </table>
+
 
 <br>
 
-### 🌎 Idiomas
 
-<table>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/Español-Nativo-8B5CF6?style=for-the-badge" alt="español" />
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/English-B1-8B5CF6?style=for-the-badge" alt="english" />
-</td>
-</tr>
-</table>
+## 💡 Lo que hago
+
+🌐 Desarrollo de aplicaciones web modernas  
+🎨 Interfaces responsive y optimizadas  
+⚡ Componentes reutilizables  
+📱 Experiencias UI/UX atractivas  
+📊 Integración de datos y dashboards  
+
+
+<br>
+
+
+## 🎯 Actualmente aprendiendo
+
+🚀 Arquitecturas Full Stack  
+☁️ Deployment & Cloud  
+🧩 Mejores prácticas en React  
+📈 Data Analytics aplicado a productos digitales
+
+
+<br>
+
+
+## 🤝 Disponible para
+
+💼 Freelance  
+🚀 Proyectos web  
+🤝 Colaboraciones
+
+
+<br>
+
+
+🇦🇷 Rosario, Argentina  
+🇬🇧 English B1
+
 
 </div>
 
+
 ---
 
-## 📌 Servicios
+
+# 🧩 Mi Stack
+
 
 ```mermaid
 graph LR
 
-A[🚀 Soluciones Digitales]
+A[🚀 Desarrollo Web]
 
-A --> B[📊 Data Analytics]
-A --> C[🎨 Web Development]
-A --> D[💾 Databases]
-A --> E[🤝 Consultoría]
+A --> B[🎨 Frontend]
+A --> C[⚙️ Backend]
+A --> D[📊 Data]
 
-B --> B1[🐍 Python]
-B --> B2[🐼 Pandas]
-B --> B3[📈 Visualización]
 
-C --> C1[⚛️ React]
-C --> C2[▲ Next.js]
-C --> C3[🎨 Tailwind]
+B --> B1[⚛️ React]
+B --> B2[▲ Next.js]
+B --> B3[🔷 TypeScript]
+B --> B4[🎨 Tailwind CSS]
+B --> B5[✨ UI Animations]
 
-D --> D1[🐘 PostgreSQL]
-D --> D2[🐬 MySQL]
+
+C --> C1[🟢 Node.js]
+C --> C2[🗄️ APIs]
+C --> C3[🔐 Authentication]
+
+
+D --> D1[🐍 Python]
+D --> D2[🐼 Pandas]
 D --> D3[🗃️ SQL]
 
-E --> E1[💡 Automatización]
-E --> E2[🌐 Soluciones Web]
-E --> E3[📊 Análisis de Datos]
