@@ -1,62 +1,26 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Thomas%20Cybart&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-<h3>📊 Data Analyst | 🎨 Web Developer | 🚀 Freelancer</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Data+Analyst+Student;Web+Developer;Python+%7C+SQL+%7C+React;Freelance+%7C+Consultor%C3%ADa"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=thomascybart&label=Profile%20views&color=8B5CF6&style=flat-square"/>
-
-</div>
-
-
 ## 🚀 Sobre mí
 
 <div align="center">
 
 💻 **Data Analyst & Web Developer**  
 📍 Rosario, Argentina 🇦🇷  
-🎯 Transformando datos en decisiones y creando experiencias web modernas
+
+Transformo datos en decisiones y creo experiencias web modernas 🚀
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Web%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-Full%20Stack-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+<br><br>
+
+🎯 **Actualmente enfocado en:**
+
+📊 Data Analytics  
+🎨 Frontend Development  
+🗄️ Databases  
+🤝 Freelance & Consultoría
 
 </div>
-
-
-```javascript
-const thomas = {
-
-  role: "Data Analyst & Web Developer",
-
-  stack: [
-    "Python",
-    "SQL",
-    "React",
-    "Next.js",
-    "TypeScript"
-  ],
-
-  analytics: [
-    "Pandas",
-    "NumPy",
-    "Matplotlib",
-    "Jupyter"
-  ],
-
-  databases: [
-    "MySQL",
-    "PostgreSQL",
-    "SQLite"
-  ],
-
-  availableFor: [
-    "Freelance",
-    "Consultoría",
-    "Colaboraciones"
-  ],
-
-  currentlyLearning:
-    "Data Analytics + Full Stack Development 🚀"´´´
-};
-};
