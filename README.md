@@ -1,14 +1,12 @@
-## 🚀 Sobre mí
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=90&section=header&text=Thomas%20Cybart&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=90&section=header&text=Thomas%20Cybart&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
 
-<h3>
-⚛️ Frontend Developer | 🚀 Full Stack Developer | 📊 Data Enthusiast
-</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=⚛️+Frontend+Developer;🚀+Full+Stack+Developer;📊+Data+Enthusiast" alt="Typing SVG" />
+</a>
 
 <p>
 Desarrollo aplicaciones web modernas utilizando <b>React, Next.js y TypeScript</b>.
